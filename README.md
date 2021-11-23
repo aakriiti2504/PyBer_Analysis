@@ -24,39 +24,18 @@ visualizations just right. As a new employee, this is a huge professional opport
 
 ## Tools Used:
 
-We will use Python scripts using Panda's libraries,Jupyter Notebook and MAtplotlib to create 
-a variety of charts to showcase the relationship between the type of city and number of
-drivers and riders as well as the percentage of total fares, riders and drivers by type of city. 
-Python graphing library Matplotlib is a favorite tool among data scientists and data analysts because of its robust 
-visualization features. Matplotlib is a graphing and plotting library for Python that comes with the Anaconda installation. 
-To use it with Jupyter Notebook, all we need to do is import it. Matplotlib is often used with another Python library, NumPy, 
-a numerical mathematics library for making arrays or matrices. Using Pandas and Jupyter notebook we will inspect data, merge datasets, perform mathematical calculations and create data series and dataframes.
+We will use Python scripts using Panda's libraries,Jupyter Notebook and MAtplotlib to create a variety of charts to showcase the relationship between the type of city and number of drivers and riders as well as the percentage of total fares, riders and drivers by type of city. Python graphing library Matplotlib is a favorite tool among data scientists and data analysts because of its robust visualization features. Matplotlib is a graphing and plotting library for Python that comes with the Anaconda installation. To use it with Jupyter Notebook, all we need to do is import it. Matplotlib is often used with another Python library, NumPy, a numerical mathematics library for making arrays or matrices. Using Pandas and Jupyter notebook we will inspect data, merge datasets, perform mathematical calculations and create data series and dataframes.
 
-Omar has given me some backstory about the connection between V. Isualize and Matplotlib. Matplotlib was created as a Python
-alternative for MATLAB. MATLAB, which is short for matrix laboratory, was developed by the company MathWorks in the 1980s. 
-It enabled scientists to perform linear algebra and numerical analysis without learning the programming language Fortran, which 
-until then had been the best option for complex computations.
+Omar has given me some backstory about the connection between V. Isualize and Matplotlib. Matplotlib was created as a Python alternative for MATLAB. MATLAB, which is short for matrix laboratory, was developed by the company MathWorks in the 1980s. It enabled scientists to perform linear algebra and numerical analysis without learning the programming language Fortran, which until then had been the best option for complex computations.
 
 
 ## Matlplotlib:
-Matplotlib is a 2D plotting library. It also has rich styling options. One can customize annotations for chart axes, titles and legends, 
-the color and size of lines, bars, and bubbles, and the chart's background. It also lets you save and print publication-quality charts.
-Because of these features, Matlplotlib is one of the most popular plotting libraries for Python. With matplotlib we can produce publication quality figures of various 
-data series that tell a visual story from data. This presents complex findings in a way thats informative and engaging to all stakeholders.
-Data visualizations allow th eaudience to absorb information quickly that is difficult to do by just browsing large tabular datasets.
-
-Matplotlib has two methods for graphing data. One uses MATLAB's plotting syntax and functionality and the other uses an object-oriented interface. 
-MATLAB's plotting syntax is concise and the most useful when creating simple plots that require little coding. 
-This method is most effective when graphing data directly from a DataFrame. The object-oriented method is better suited to more complicated graphs that 
-require more coding, such as those with multiple lines or bars, or multiple plots in one graph. 
-Here, we'll use Matplotlib's plotting methods in the Jupyter Notebook environment with data from 
-the ride-sharing dataset. 
+Matplotlib is a 2D plotting library. It also has rich styling options. One can customize annotations for chart axes, titles and legends, the color and size of lines, bars, and bubbles, and the chart's background. It also lets you save and print publication-quality charts. Because of these features, Matlplotlib is one of the most popular plotting libraries for Python. With matplotlib we can produce publication quality figures of various data series that tell a visual story from data. This presents complex findings in a way thats informative and engaging to all stakeholders. Data visualizations allow th eaudience to absorb information quickly that is difficult to do by just browsing large tabular datasets.
+Matplotlib has two methods for graphing data. One uses MATLAB's plotting syntax and functionality and the other uses an object-oriented interface. MATLAB's plotting syntax is concise and the most useful when creating simple plots that require little coding. This method is most effective when graphing data directly from a DataFrame. The object-oriented method is better suited to more complicated graphs that require more coding, such as those with multiple lines or bars, or multiple plots in one graph. Here, we'll use Matplotlib's plotting methods in the Jupyter Notebook environment with data from the ride-sharing dataset. 
 
 
 ## Purpose:
-The amount of analysis and visualizations produced will help PyBer improve access to ridesharing
-services and determine affordability for under served neighborhoods. This analysis consists of two 
-technical deliverables and a written report presenting results on:
+The amount of analysis and visualizations produced will help PyBer improve access to ridesharing services and determine affordability for under served neighborhoods. This analysis consists of two technical deliverables and a written report presenting results on:
 #### - A ride sharing summary DataFrame by city type, and
 #### - A multiple -line chart of total fares for each city type.
 
