@@ -60,9 +60,48 @@ Omar has approved the following project scope:
 ## Procedure:
 1) A github reposirtory PyBer_Analysis is created so that I can share project details with Omar and other colleagues.
 2) Checked the version of Matlplotlib library 
-3) Omar has suggested that I start with one of the most common charts: a line chart. I will also 
-be commenting on my code. This way, if he or the CEO wants to take a look at your repo, they'll know exactly what
-I am  doing and whether you're heading in the right direction.
+3) Omar has suggested that I start with one of the most common charts: a line chart. I will also be commenting on my code. This way, if he or the CEO wants to take a look at the repo, they'll know exactly what I am  doing and whether I am heading in the right direction.
+4) In Deliverable 1, Adding the Matplotlib inline command and loading and reading the data from .csv files.
+
+![1](https://user-images.githubusercontent.com/23488019/143162145-ae81bf8d-dd00-4367-a9f5-0d484eeefbe0.PNG)
+
+5) Getting th etotal rides, drivers, amount of fares average fare per ride for each city type.
+
+![2](https://user-images.githubusercontent.com/23488019/143162204-a787e8dc-d2c8-4a43-b91f-e918ba2984b5.PNG)
+
+6) Getting the average fare per driver and the PyBer summary dataframe. Next we clean up the dataframe and delete the index name
+
+![3](https://user-images.githubusercontent.com/23488019/143162223-3ed762ee-a151-469e-8a4b-d560a2c4e25e.PNG)
+
+7) Formatting the columns and having comma separators as well as $ sign where needed.
+
+![4](https://user-images.githubusercontent.com/23488019/143162234-4c918f21-d54e-4cae-9ee8-374f420de4f3.PNG)
+
+8) In deliverable 2, reading the merged dataframe and using groupby() to create a new dataframe showing th esum of the fares for each date where the indices are the city type and date.
+
+![5](https://user-images.githubusercontent.com/23488019/143162243-c7373e61-959d-4500-aa34-7d6ea4bb8972.PNG)
+
+9) Resetting the index on the dataframe created in deliverable 1.
+
+![6](https://user-images.githubusercontent.com/23488019/143162261-eecb33ab-996a-4093-9577-1c72a18e45e1.PNG)
+
+10) Creating a pivot table with date as index to get the total fares for each typ eof city by the date.
+
+![7](https://user-images.githubusercontent.com/23488019/143162281-f876ca0a-350a-4dce-9489-49410db0f8c6.PNG)
+
+11) Creating a new dataframe from the pivot table dataframe using loc on the given dates.
+
+![8](https://user-images.githubusercontent.com/23488019/143162301-b95d0eeb-360a-432e-9adb-3365556048f1.PNG)
+
+12) Checking that the datatype for the index is datetime using df.info(). Next we create a new dataframe using the resample() function by week and get the sum of the fares for each week.
+
+![9](https://user-images.githubusercontent.com/23488019/143162332-e036de0c-6e53-4f52-921f-b22ada32b4b9.PNG)
+
+13) Plotting the resample Dataframe using the df.plot() function using th eobject oriented interface method.
+
+![10](https://user-images.githubusercontent.com/23488019/143162348-03da2f3e-89c1-42f0-bef6-f1800ca57d98.PNG)
+
+## Results:
 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
