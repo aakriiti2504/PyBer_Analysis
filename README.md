@@ -66,7 +66,7 @@ Omar has approved the following project scope:
 
 ![1](https://user-images.githubusercontent.com/23488019/143162145-ae81bf8d-dd00-4367-a9f5-0d484eeefbe0.PNG)
 
-6) Getting th etotal rides, drivers, amount of fares average fare per ride for each city type.
+6) Getting the total rides, drivers, amount of fares average fare per ride for each city type.
 
 ![2](https://user-images.githubusercontent.com/23488019/143162204-a787e8dc-d2c8-4a43-b91f-e918ba2984b5.PNG)
 
@@ -78,7 +78,7 @@ Omar has approved the following project scope:
 
 ![4](https://user-images.githubusercontent.com/23488019/143162234-4c918f21-d54e-4cae-9ee8-374f420de4f3.PNG)
 
-9) In deliverable 2, reading the merged dataframe and using groupby() to create a new dataframe showing th esum of the fares for each date where the indices are the city type and date.
+9) In deliverable 2, reading the merged dataframe and using groupby() to create a new dataframe showing the sum of the fares for each date where the indices are the city type and date.
 
 ![5](https://user-images.githubusercontent.com/23488019/143162243-c7373e61-959d-4500-aa34-7d6ea4bb8972.PNG)
 
@@ -86,7 +86,7 @@ Omar has approved the following project scope:
 
 ![6](https://user-images.githubusercontent.com/23488019/143162261-eecb33ab-996a-4093-9577-1c72a18e45e1.PNG)
 
-11) Creating a pivot table with date as index to get the total fares for each typ eof city by the date.
+11) Creating a pivot table with date as index to get the total fares for each type of city by the date.
 
 ![7](https://user-images.githubusercontent.com/23488019/143162281-f876ca0a-350a-4dce-9489-49410db0f8c6.PNG)
 
@@ -99,7 +99,7 @@ Omar has approved the following project scope:
 ![51](https://user-images.githubusercontent.com/23488019/143735918-728496b9-41de-410e-a677-f355bf2411fe.PNG)
 
 
-14) Plotting the resample Dataframe using the df.plot() function using th eobject oriented interface method.
+14) Plotting the resample Dataframe using the df.plot() function using the object oriented interface method.
 
 ![52](https://user-images.githubusercontent.com/23488019/143735910-b942dd1b-2bc7-4d0d-b35c-7132bee405cf.PNG)
 
@@ -121,6 +121,7 @@ From the dataframe created, it can be observed that:
 A bubble chart was created initially where the circle size correlates with the driver count per city. It was noted here that the urban city types have the highest driver counts and the total number of rides. Also, the rural aresa had the lowest of these values and suburban were a mid range performing city type.The average number of rides in rural cities are also lowest than in urban and suburban city types.
 ![Fig1](https://user-images.githubusercontent.com/23488019/143763133-1e3a43d4-a04c-42ca-84d1-f8ffaa824bd6.png)
  
+ The box and whisker chart displays the city types and the number of rides. This shows that there is least number of rides in rural areas and the most in urbana areas. This can be because of less need in rural areas as compared to the urban areas.
  
  ![Fig2](https://user-images.githubusercontent.com/23488019/143763126-d595e79f-87da-4530-aaa9-4a531a4d8890.png)
 
