@@ -149,7 +149,6 @@ Based on the results,  atleast three business recommendations to the CEO for add
 
 - 3)The maximum number of rides are currently in the urban city type. Hence PyBer can increase their fares by little to get more profit as the ride traffic is much more and steady in the urban areas. Increasing fare based on per mile can be introduced initially to see change in total profit. 
 - 4)Another way could be to reduce the number of drivers a little in the urban areas so that the fares could be increased and there is more utilization of resources with the headcount reduction. More drivers can be encouraged to drive in the rural areas. It can be seen that the drivers in urban are not at a100% utilization hence efforts should be made towards more utilization of drivers.
-
 ![54](https://user-images.githubusercontent.com/23488019/143763785-bdab7933-eb7c-4c72-8987-d493ad9fb41d.PNG)
 
 - 5)The suburban city type are medium performing type and extra efforts can abe added to improve the business in this category too. More investments can be made to increase the performance in these areas.
