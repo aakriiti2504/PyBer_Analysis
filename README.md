@@ -105,7 +105,7 @@ Omar has approved the following project scope:
 
 
 ## Results:
-The various differences in the risde-sharing data among different city types are discussed here. The ride sharing data include the total rides, total drivers, total fares, average fare per driver and ride and total fare by city type.
+The various differences in the ride-sharing data among different city types are discussed here. The ride sharing data include the total rides, total drivers, total fares, average fare per driver and ride and total fare by city type.
 Using the various functions in Pandas, we could come up with the PyBer dataframe to calculate the total number of rides, fares, drivers and calculate various averages and totals. We formatted the dataframe and obtained the following result:
 ![62](https://user-images.githubusercontent.com/23488019/143762915-27207038-e09f-455d-8a6a-601503830dfe.PNG)
 
@@ -114,10 +114,11 @@ From the dataframe created, it can be observed that:
 - It can be also noted that the drivers in the rural areas make 1/3rd of what the drivers make in the urban city types.
 - The urban fares start with an average of $1800 with a consistent increase around $2300. Suburban starts at $1000 approx and the fare dropped in March and mid April. Hence the analysis was not profitable. In rural areas, fare started around $200 and the fares increased and then dropped until the ned of April.
 - There are 13 times more number of rides in urban areas than in the rural areas. There are 30 times more number of drivers in the urban areas as compared to the rural areas. Also, there is a possibility of making 9 times the total revenue in urban areas as compared to rural areas.
-- 
+- Rural cities have the highest average fare per driver representing 49% of the average fare per driver or $55 average fare per driver.Suburban cities have the second highest average fare per driver representing 36% of the average fare per driver or $40 average fare per driver. Urban cities have the least average fare per driver representing 15% of the average fare per driver or $17 average fare per driver.
+- Rural cities have the highest average fare per ride representing 39% of the average fare per ride or $35 average fare per ride.Suburban cities have the second highest average fare per ride representing 34% of the average fare per ride or $31 average fare per ride. Urban cities have the least average fare per ride representing 27% of the average fare per ride or $24 average fare per ride
 
 
-A bubble chart was created initially wher the circle size correlates with the driver count per city. It was noted here that the urban city types have the highest driver counts and the total number of rides. Also, the rural aresa had the lowest of these values and suburban were a mid range performing city type.The average number of rides in rural cities are also lowest than in urban and suburban city types.
+A bubble chart was created initially where the circle size correlates with the driver count per city. It was noted here that the urban city types have the highest driver counts and the total number of rides. Also, the rural aresa had the lowest of these values and suburban were a mid range performing city type.The average number of rides in rural cities are also lowest than in urban and suburban city types.
 ![Fig1](https://user-images.githubusercontent.com/23488019/143763133-1e3a43d4-a04c-42ca-84d1-f8ffaa824bd6.png)
  
  
@@ -133,20 +134,23 @@ A bubble chart was created initially wher the circle size correlates with the dr
 From the above line graph it can be observed that:
 - The urban cities had the highest total fares for all the months and weeks and the rural city type had the least of the fares generated.
 - The third week of February has the highest number of fares for all the three city types. This shows that there was an increased demand in the ride sharing activities.
-- 
+
 
 ## Summary: 
 Based on the results,  atleast three business recommendations to the CEO for addressing any disparities among the city types are discussed below:
-- 1) There is a great potential to increase the revenue in rural as well as suburban areas if the number of drivers working in these two city types are increased. The urban cities have 80.9% drivers, however the rural and suburban have 2.6% and 16.5% drivers respectively. Hence, it can be concluded that there are opportunities to expand business in these areas. More special rates and deals need to be introduced in these areas. Also, there is a need to recruit more drivers in there so that under served areas can have access to more comfortable and frequent ride sharing facilities.
+- 1)There is a great potential to increase the revenue in rural as well as suburban areas if the number of drivers working in these two city types are increased. The urban cities have 80.9% drivers, however the rural and suburban have 2.6% and 16.5% drivers respectively. Hence, it can be concluded that there are opportunities to expand business in these areas. More special rates and deals need to be introduced in these areas. Also, there is a need to recruit more drivers in there so that under served areas can have access to more comfortable and frequent ride sharing facilities.
 
 ![53](https://user-images.githubusercontent.com/23488019/143736089-f785f088-1bbd-4e39-9e29-e0425ae06563.PNG)
 
 
-- 2) Few attractive special event or weekly special deals can be introduced as a measure to increase the sales. The graph shows that there is not much difference in the fares hence PyBer can work on special fares and deals to attract more customers to use PyBer and this increase the total sales of the company.
+- 2)Few attractive special event or weekly special deals can be introduced as a measure to increase the sales. The graph shows that there is not much difference in the fares hence PyBer can work on special fares and deals to attract more customers to use PyBer and this increase the total sales of the company.
 
 
 - 3)The maximum number of rides are currently in the urban city type. Hence PyBer can increase their fares by little to get more profit as the ride traffic is much more and steady in the urban areas. Increasing fare based on per mile can be introduced initially to see change in total profit. 
-- 4) Another way could be to reduce the number of drivers a little in the urban areas so that the fares could be increased and there is more utilization of resources with the headcount reduction. More drivers can be encouraged to drive in the rural areas. It can be seen that the drivers in urban are not at a100% utilization hence efforts should be made towards more utilization of drivers.
-- 5) The suburban city type are medium performing type and extra efforts can abe added to improve the business in this category too. More investments can be made to increase the performance in these areas.
+- 4)Another way could be to reduce the number of drivers a little in the urban areas so that the fares could be increased and there is more utilization of resources with the headcount reduction. More drivers can be encouraged to drive in the rural areas. It can be seen that the drivers in urban are not at a100% utilization hence efforts should be made towards more utilization of drivers.
+
+![54](https://user-images.githubusercontent.com/23488019/143763785-bdab7933-eb7c-4c72-8987-d493ad9fb41d.PNG)
+
+- 5)The suburban city type are medium performing type and extra efforts can abe added to improve the business in this category too. More investments can be made to increase the performance in these areas.
 
 These observations can be very helpful in finding the disparities in the fares for different city types and provide a foundation to plan steps ahead so that ride sharing can be more affordable as well as accessible in all the three city types.
